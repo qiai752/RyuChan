@@ -1,28 +1,3 @@
-- name: HomePage
-  avatar: https://img.131714.xyz/file/Avatar/1753366550828_avatar1.jpg
-  description: 🏠 小张的个人主页！
-  url: https://131714.xyz
-  year: 2025
-  tags:
-    - Web
-  badge: Profile
-- name: Blog
-  avatar: https://blog.131714.xyz/images/avatar.png
-  description: 个人Blog，发布文章~ (ﾉ>ω<)ﾉ
-  url: https://hub.131714.xyz
-  year: 2025
-  tags:
-    - 自用
-  badge: Blog
-- name: ImgBed
-  avatar: https://img.131714.xyz/file/Avatar/1753366548855_avatar3.jpg
-  description: 🌄 Cloudflare-ImgBed + Telegram实现的无限存储图床~
-  url: https://img.131714.xyz
-  year: 2025
-  tags:
-    - Cloudflare
-    - Telegram
-  badge: ImgBed
 - name: OpenList
   avatar: https://img.131714.xyz/file/Avatar/1753366556506_avatar4.jpg
   description: ✨ 网盘挂载器~当然也可以添加本机的存储哇 (≧∇≦)ﾉ
