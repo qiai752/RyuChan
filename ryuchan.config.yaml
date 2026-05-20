@@ -1,6 +1,6 @@
 site:
   tab: qi
-  title: 祁的个人博客
+  title: '1'
   title_type: image
   description: 🌸 轻盈、优雅、纯净 —— 用文字与图片记录生活与创意
   language: zh
@@ -140,7 +140,7 @@ umami:
   timezone: Asia/Shanghai
 user:
   name: 祁
-  description: 咖啡续命，周一续费
+  description: ''
   site: www.xikh.cc.cd
   avatar: /profile.png
   title_image: /logo.png
