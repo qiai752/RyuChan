@@ -1,6 +1,6 @@
 site:
-  tab: RyuChan
-  title: RyuChan
+  tab: 祁主页
+  title: 祁的个人
   title_type: image
   description: 🌸 轻盈、优雅、纯净 —— 用文字与图片记录生活与创意
   language: zh
@@ -95,7 +95,7 @@ site:
   titleType: image
 anime:
   bilibili:
-    uid: '1536411565'
+    uid: '3706923322968334'
   tmdb:
     apiKey: 08a6bef260044f70c150251c79f2e476
     listId: '8556173'
@@ -133,53 +133,52 @@ github:
   appId: 在部署端配置环境变量
   encryptKey: wudishiduomejimo
 umami:
-  enable: true
+  enable: false
   baseUrl: https://umami.131714.xyz
   shareId: jToXL5Z3hnA1gKUw
   websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
   timezone: Asia/Shanghai
 user:
   name: 祁
-  description: Ciallo～(∠・ω<)⌒★
-  site: https://hub.131714.xyz
+  description: 咖啡续命，周一续费
+  site: www.xikh.cc.cd
   avatar: /profile.png
   title_image: /logo.png
   qr_wechat: /WeChat.jpg
   qr_alipay: /Alipay.jpg
   sidebar:
     social:
-      - href: https://github.com/kobaridev
+      - href: https://github.com/qiai751
         ariaLabel: Github
         title: Github
         svg: ri:github-line
-      - href: https://space.bilibili.com/1536411565
+      - href: https://space.bilibili.com/3706923322968334
         ariaLabel: BiliBili
         title: BiliBili
         svg: ri:bilibili-line
-      - href: >-
-          https://www.douyin.com/user/MS4wLjABAAAAeO0sqJYUgh1a26GkVPtS2yv_IOODjeqvtl4KSjvsntg?from_tab_name=main
-        ariaLabel: Douyin
-        title: Douyin
-        svg: ri:tiktok-line
-      - href: https://weibo.com/u/7579913510
-        title: Weibo
-        ariaLabel: Weibo
-        svg: ri:weibo-fill
+      - href: https://t.me/XIKH2452
+        ariaLabel: Telegram
+        title: Telegram
+        svg: ri:telegram-line
+      - href: https://api.mmp.cc/api/qqhome?text=1707659462
+        title: QQ
+        ariaLabel: QQ
+        svg: ri:qq-line
   footer:
     social:
-      - href: https://github.com/kobaridev
+      - href: https://github.com/qiai751
         ariaLabel: Github
         title: Github
         svg: ri:github-line
-      - href: https://space.bilibili.com/1536411565
+      - href: https://space.bilibili.com/3706923322968334
         ariaLabel: BiliBili
         title: BiliBili
         svg: ri:bilibili-line
-      - href: https://x.com/xzz_ya
-        ariaLabel: X(twitter)
-        title: X(twitter)
-        svg: ri:twitter-line
-      - href: https://t.me/xzz_ya
+      - href: https://api.mmp.cc/api/qqhome?text=1707659462
+        ariaLabel: QQ
+        title: QQ
+        svg: ri:qq-line
+      - href: https://t.me/XIKH2452
         ariaLabel: Telegram
         title: Telegram
         svg: ri:telegram-line
