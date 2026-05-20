@@ -95,7 +95,7 @@ site:
   titleType: image
 anime:
   bilibili:
-    uid: '3706923322968334'
+    uid: ''
   tmdb:
     apiKey: 08a6bef260044f70c150251c79f2e476
     listId: '8556173'
@@ -139,44 +139,20 @@ umami:
   websiteId: 3f9afc6c-f0bd-4734-be15-6d053960d34d
   timezone: Asia/Shanghai
 user:
-  name: 祁
+  name: '1'
   description: ''
-  site: www.xikh.cc.cd
+  site: ''
   avatar: /profile.png
   title_image: /logo.png
   qr_wechat: /WeChat.jpg
   qr_alipay: /Alipay.jpg
   sidebar:
-    social:
-      - href: https://github.com/qiai751
-        ariaLabel: Github
-        title: Github
-        svg: ri:github-line
-      - href: https://space.bilibili.com/3706923322968334
-        ariaLabel: BiliBili
-        title: BiliBili
-        svg: ri:bilibili-line
-      - href: https://t.me/XIKH2452
-        ariaLabel: Telegram
-        title: Telegram
-        svg: ri:telegram-line
+    social: []
   footer:
-    social:
-      - href: https://github.com/qiai751
-        ariaLabel: Github
-        title: Github
-        svg: ri:github-line
-      - href: https://space.bilibili.com/3706923322968334
-        ariaLabel: BiliBili
-        title: BiliBili
-        svg: ri:bilibili-line
-      - href: https://t.me/XIKH2452
-        ariaLabel: Telegram
-        title: Telegram
-        svg: ri:telegram-line
+    social: []
 comments:
   enable: true
-  type: twikoo
+  type: giscus
   giscus:
     repo: kobaridev/gsc
     repoId: R_kgDOPTM-mA
